@@ -1,5 +1,6 @@
 # I Am Poor
 [![Codemagic build status](https://api.codemagic.io/apps/6182c18af780e49b3b426ec3/6182c18af780e49b3b426ec2/status_badge.svg)](https://codemagic.io/apps/6182c18af780e49b3b426ec3/6182c18af780e49b3b426ec2/latest_build)
+[![CodeFactor](https://www.codefactor.io/repository/github/starfoxcom/i-am-poor-flutter/badge)](https://www.codefactor.io/repository/github/starfoxcom/i-am-poor-flutter)
 
 This is an application created to follow up with a Flutter course.
 
